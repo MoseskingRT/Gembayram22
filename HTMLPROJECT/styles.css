@@ -122,12 +122,9 @@
     opacity: 0;
     animation: slideBottom 1s ease forwards;
     animation-delay: .7s;
-}
-
-.multiple-text {
     color: #fff;
-
 }
+
 
 /* Showcase Section */
 .showcase {
