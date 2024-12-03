@@ -124,6 +124,11 @@
     animation-delay: .7s;
 }
 
+.multiple-text {
+    color: #fff;
+
+}
+
 /* Showcase Section */
 .showcase {
     padding: 60px 5%;
